@@ -1,4 +1,5 @@
 # ivy-to-cashew-csv-import
+A Google Sheet script to convert Ivy Wallet exported CSVs into Cashew-compatible CSVs.
 
 ## Running the script
 
